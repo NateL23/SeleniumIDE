@@ -270,6 +270,13 @@
         ["xpath=//h1[contains(.,'CURA Healthcare Service')]", "xpath:innerText"]
       ],
       "value": "CURA Healthcare Service"
+    }, {
+      "id": "39502fdf-9308-4382-af88-28c839a9b233",
+      "comment": "",
+      "command": "close",
+      "target": "",
+      "targets": [],
+      "value": ""
     }]
   }, {
     "id": "d9fb528c-8c59-408b-a7b0-ea2f48218896",
@@ -609,7 +616,7 @@
   }],
   "suites": [{
     "id": "fc9bcfd3-4c99-4124-8791-ecf72bd136c6",
-    "name": "Selenium IDE Test Exercise",
+    "name": "Selenium IDE Test Exercises",
     "persistSession": false,
     "parallel": false,
     "timeout": 300,
