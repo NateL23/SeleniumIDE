@@ -14,6 +14,7 @@ https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackb
 https://addons.mozilla.org/pl/firefox/addon/selenium-ide/
 * The steps are similar to Chrome installation
 
+
 #### Step 2: Run the Tests
 1. Launch the Selenium IDE Extension
 1. Select Option: Open an existing project
