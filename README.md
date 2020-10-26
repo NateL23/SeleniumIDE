@@ -9,6 +9,7 @@ https://chrome.google.com/webstore/detail/selenium-ide/mooikfkahbdckldjjndioackb
 * Click the extension icon to open the extension menu
 * Click at the "pin" icon
 * From now Selenium IDE can be run from the extension toolbar
+
 **Firefox(_unstable_):**
 https://addons.mozilla.org/pl/firefox/addon/selenium-ide/
 * The steps are similar to Chrome installation
